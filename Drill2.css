@@ -1,0 +1,167 @@
+.Top {
+    background-color: #0D1430;
+    color: white;
+    height: 10%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute; 
+    text-align: center;
+}
+.Home {
+    position: absolute;
+    font-size: 100%;
+    top: 30%;
+    left: 45%;
+    margin: auto;
+}
+.Biog {
+    position: absolute;
+    font-size: 100%;
+    top: 30%;
+    right: 45%;
+    margin: auto;
+}
+.Heading {
+    position: absolute;
+    height: 7.5%;
+    width: 100%;
+    top: 7.5%;
+    text-align: center;
+    font-size: 200%;
+}
+.Ex1 {
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    height: 5%;
+    width: 100%;
+    font-size: 100%;
+}
+.Box1{
+    position: absolute;
+    height: 15%;
+    width: 15%;
+    top: 30%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: #99D8CA;
+    box-shadow: inset 0 0 0 10px #5873E2;
+    border: 10px solid;
+    border-radius: 5px;
+    outline: 10px solid #90FFA9;
+}
+.dashed-line-1 {
+    position: absolute;
+    top: 52.5%;
+    width: 80%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 1px dashed black;
+}
+.Ex2 {
+    position: absolute;
+    text-align: center;
+    top: 52.5%;
+    height: 2%;
+    width: 100%;
+    font-size: 100%;
+}
+.Box2 {
+    position: absolute;
+    border: 1px solid;
+    top: 60%;
+    width: 80%;
+    height: 15%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.Box2-1 {
+    position: absolute;
+    width: 30%;
+    height: 90%;
+    left: 1%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #99D8CA;
+}
+.Box2-2 {
+    position: absolute;
+    width: 30%;
+    height: 90%; 
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #99D8CA;
+}
+.Box2-3 {
+    position: absolute;
+    width: 30%;
+    height: 90%;
+    right: 1%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #99D8CA;
+}
+.dashed-line-2 {
+    position: absolute;
+    top: 80%;
+    width: 80%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border: 1px dashed black;
+}
+.Box3 {
+    position: absolute;
+    bottom: 1%;
+    border: 1px solid;
+    width: 80%;
+    height: 15%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.Box3-1 {
+    position: absolute;
+    width: 30%;
+    height: 90%;
+    left: 1%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #99D8CA;
+    border: 1px solid;
+}
+.Box3-2 {
+    position: absolute;
+    width: 30%;
+    height: 90%; 
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #99D8CA;
+    border: 1px solid;
+}
+.Box3-3 {
+    position: absolute;
+    width: 30%;
+    height: 90%;
+    right: 1%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #99D8CA;
+    border: 1px solid;
+}
